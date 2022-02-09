@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Bank User Login Detail</title>
+<title>Bank User Login Details</title>
 
 </head>
 <body bgcolor="skyblue">
