@@ -13,6 +13,7 @@
 <form action="HelloServlet" method="post">
 UserName: <input type="text" name="yourName" size="20"><br/><br/>
 Password: <input type="text" name="password" size="20"><br/><br/>
+Remarks <input type="text" name="Remarks" size="20"><br/><br/>
 <input type="submit" value="Login" />
 </form>
 
