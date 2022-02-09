@@ -4,17 +4,19 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
-</head>
-<body>
+<title>Bank User Login Detail</title>
 
-<h1>Hello JSP and Servlet!</h1>
+</head>
+<body bgcolor="skyblue">
+
+<h1>User Login Page</h1>
 <form action="HelloServlet" method="post">
-Enter your name: <input type="text" name="yourName" size="20">
-<input type="submit" value="Call Servlet" />
+UserName: <input type="text" name="yourName" size="20"><br/><br/>
+Password: <input type="text" name="password" size="20"><br/><br/>
+<input type="submit" value="Login" />
 </form>
 
- <button onclick="window.location.href='http://localhost:8085/lesson14/register.jsp';"> Click to go to user registration </button>
+ <!--<button onclick="window.location.href='http://localhost:8085/lesson14/register.jsp';"> Click to go to user registration </button>  -->
 
 </body>
 </html>
